@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "authors": ["Dashdaslaya"]
+  },
+  "format_version": 2,
+  "header": {
+    "min_engine_version": [1, 20, 0],
+    "name": "MC hack client by Dashdaslaya",
+    "description": "Apply to use",
+    "uuid": "your-unique-uuid-for-pack",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "your-unique-uuid-for-resources",
+      "version": [1, 0, 0]
+    }
+  ]
+}
